@@ -1,4 +1,4 @@
-#Electrodynamics
+#Electrodynamics Test
 
 This mod is **in development** and is open source for your enjoyment.
 
